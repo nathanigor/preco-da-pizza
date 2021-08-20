@@ -1,3 +1,4 @@
+# Preco-da-pizza
 Atividade desenvolvida no curso Orientação a Objetos com Java por Instituto Tecnológico de Aeronáutica
 
 Crie uma classe Pizza que possua o método adicionaIngrediente() que recebe uma String com o ingrediente a ser adicionado. Essa classe também deve possuir o método getPreco() que calcula da seguinte forma: 2 ingredientes ou menos custam 15 reais, de 3 a 5 ingredientes custam 20 reais e mais de 5 ingredientes custa 23 reais.
